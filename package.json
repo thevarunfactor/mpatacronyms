@@ -1,0 +1,30 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "Gives full form of acronyms devised by Madrasapattinam group",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thevarunfactor/mpatacronyms.git"
+  },
+  "keywords": [
+    "mpat",
+    "acronyms",
+    "telegram",
+    "bot"
+  ],
+  "author": "varun b krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thevarunfactor/mpatacronyms/issues"
+  },
+  "homepage": "https://github.com/thevarunfactor/mpatacronyms#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1"
+  }
+}
